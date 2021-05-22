@@ -11,8 +11,8 @@ Users should be able to:
 
 ### Links
 
-- [solution URL here](https://your-solution-url.com)
-- [live site URL here](https://your-live-site-url.com)
+- [solution URL here](https://github.com/GeorgeAlexXenos/frontendmentor_Huddle-landing-page-with-alternating-feature-blocks)
+- [live site URL here](https://georgealexxenos.github.io/frontendmentor_Huddle-landing-page-with-alternating-feature-blocks/)
 
 ## My process
 
