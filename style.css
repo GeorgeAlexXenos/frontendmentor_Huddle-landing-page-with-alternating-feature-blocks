@@ -40,12 +40,13 @@ header {
 }
 
 .header {
-  width: 375px;
+  width: 95%;
+  max-width: 375px;
   height: 80px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 0 2.5rem 7rem;
+  margin: 0 0 7rem;
 }
 
 .header_button button {
@@ -312,6 +313,7 @@ media querries
     padding: 3rem;
     background-image: url(./images/bg-hero-desktop.svg);
   }
+
   .header_details {
     min-width: 100%;
     flex-direction: row;
@@ -331,7 +333,7 @@ media querries
   }
   .header {
     margin: 1rem 0 4rem;
-    width: 90vw;
+    max-width: unset;
   }
   .header_details h1 {
     text-align: left;
